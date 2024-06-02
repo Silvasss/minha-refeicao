@@ -5,7 +5,7 @@ Este repositório contém o código-fonte de um projeto fullstack desenvolvido p
 
 ## Tecnologias Utilizadas
 - **Frontend:** React, Redux e Material UI
-- **Backend:** ASP.NET Core, Firebase e MongoDB Entity Framework
+- **Backend:** ASP.NET Core e Entity Framework
 - **Banco de Dados:** MongoDB Atlas
 - **Autenticação:** Firebase
 
