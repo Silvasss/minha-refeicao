@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "",
+  "private_key_id": "trabuco",
+  "private_key": "trabuco",
+  "client_email": "trabuco",
+  "client_id": "trabuco",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "trabuco",
+  "universe_domain": "googleapis.com"
+}
